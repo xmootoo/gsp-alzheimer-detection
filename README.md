@@ -9,15 +9,19 @@
 This repository is dedicated to our research on the application of graph signal processing (GSP) using the Graph Discrete Fourier transform (GDFT) for the detection Alzheimer Disease in EEG data. It includes all code for data preprocessing, feature engineering, training and evaluation of machine learning models, along with the plots used in our paper.
 
 ## Abstract
-Alzheimer Disease (AD) poses a significant and growing public health challenge worldwide. Early and accurate diagnosis is crucial for effective intervention and care. In recent years, there has been a surge of interest in leveraging Electroen-cephalography (EEG) to improve the detection of AD. This paper focuses on the application of Graph Signal Processing (GSP) techniques using the Graph Discrete Fourier Transform (GDFT) to analyze EEG recordings for the detection of AD, by employing several machine learning (ML) and deep learning (DL) models. We evaluate our models on publicly available EEG data containing 88 patients categorized into three groups: AD, Frontotemporal Dementia (FTD), and Healthy Controls (HC). Binary classification of dementia versus HC reached a top accuracy of 85% (SVM), while multiclass classification of AD, FTD, and HC attained a top accuracy of 44% (Naive Bayes). We provide novel GSP methodology for detecting AD, and form a framework for further experimentation to investigate GSP in the context of other neurodegenerative diseases across multiple data modalities, such as neuroimaging data in Major Depressive Disorder, Epilepsy, and Parkinson disease.
+Alzheimer Disease (AD) poses a significant and growing public health challenge worldwide. Early and accurate diagnosis is crucial for effective intervention and care. In recent years, there has been a surge of interest in leveraging Electroencephalography (EEG) to improve the detection of AD. This paper focuses on the application of Graph Signal Processing (GSP) techniques using the Graph Discrete Fourier Transform (GDFT) to analyze EEG recordings for the detection of AD, by employing several machine learning (ML) and deep learning (DL) models. We evaluate our models on publicly available EEG data containing 88 patients categorized into three groups: AD, Frontotemporal Dementia (FTD), and Healthy Controls (HC). Binary classification of dementia versus HC reached a top accuracy of 85% (SVM), while multiclass classification of AD, FTD, and HC attained a top accuracy of 44% (Naive Bayes). We provide novel GSP methodology for detecting AD, and form a framework for further experimentation to investigate GSP in the context of other neurodegenerative diseases across multiple data modalities, such as neuroimaging data in Major Depressive Disorder, Epilepsy, and Parkinson disease.
 
 
 ## Paper
-The details of our research, methodology, and findings are thoroughly discussed in our paper. You can access the paper at: https://www.medrxiv.org/content/10.1101/2023.11.01.23297940v1.
+The details of our research, methodology, and findings are discussed thoroughly in the paper, which can be accessed through [Mootoo et al. (2023)](https://www.medrxiv.org/content/10.1101/2023.11.01.23297940v1).
 
 ## Dataset
-The dataset used in this study consists of [Details about the dataset]. Due to privacy and ethical concerns, the dataset is not publicly available.
+We would like to express our gratitude to the researchers from the Department of Informatics and
+Telecommunications at the University of Ioannina, the Department of Electrical and Computer En-
+gineering at the University of Western Macedonia, and the 2nd Department of Neurology at AHEPA
+University Hospital, Aristotle University of Thessaloniki, for generously sharing their dataset [Miltiadous et al. (2023)](https://www.mdpi.com/2306-5729/8/6/95). Their open contributions through OpenNeuron greatly contributed to the advancement of our research.
 
 ## Citation
-If you find our research useful, please consider citing our paper:
-* Xavier Mootoo, Alice Fours, Chinthaka Dinesh, Mohammad Ashkani, Adam Kiss, Mateusz Faltyn. Detecting Alzheimer Disease in EEG Data with Machine learning and the Graph Discrete Fourier Transform. medRxiv 2023.11.01.23297940; doi: https://doi.org/10.1101/2023.11.01.23297940
+To reference our work, please use the following citation:
+
+> Xavier Mootoo, Alice Fours, Chinthaka Dinesh, Mohammad Ashkani, Adam Kiss, Mateusz Faltyn. *Detecting Alzheimer Disease in EEG Data with Machine learning and the Graph Discrete Fourier Transform*. medRxiv 2023.11.01.23297940; doi: https://doi.org/10.1101/2023.11.01.23297940
