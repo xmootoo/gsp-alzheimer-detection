@@ -19,7 +19,7 @@ The details of our research, methodology, and findings are discussed thoroughly 
 We would like to express our gratitude to the researchers from the Department of Informatics and
 Telecommunications at the University of Ioannina, the Department of Electrical and Computer En-
 gineering at the University of Western Macedonia, and the 2nd Department of Neurology at AHEPA
-University Hospital, Aristotle University of Thessaloniki, for generously sharing their dataset [Miltiadous et al. (2023)](https://www.mdpi.com/2306-5729/8/6/95). Their open contributions through OpenNeuron greatly contributed to the advancement of our research.
+University Hospital, Aristotle University of Thessaloniki, for generously sharing their dataset [Miltiadous et al. (2023)](https://www.mdpi.com/2306-5729/8/6/95). Their open contributions through OpenNeuro greatly contributed to the advancement of our research.
 
 ## Citation
 To reference our work, please use the following citation:
